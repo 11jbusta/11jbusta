@@ -58,11 +58,21 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - Meta Business Manager **⭐⭐⭐**
 - Power BI **⭐⭐**
 
-## Projects
+# Personal Projects
+## Ebombo Holding
+### Investor & Consultant (2018 - Present)
 
-- [Project 1](Link to Project 1): Short description of the project.
-- [Project 2](Link to Project 2): Short description of the project.
-- [Project 3](Link to Project 3): Short description of the project.
+- Location: Peru and Mexico
+- HR Tech B2B SaaS that allows companies to connect with their employees to improve the work environment. We do this with virtual activities created by us. These activities consist of games, onboarding dynamics, training, and more, but in a super fun way.
+- 2022: Raised 660K pre-seed round
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/959688a3-6257-45a5-9a0d-a1e431a4e427/Untitled.png)
+    
+- 2019 Start-Up Peru winner
+- Business Development and Growth
+- Helped with marketing analytics, strategy, business models,
+financial planning and decision-making
+- Webpage: https://ebomboevents.com/
 
 ## Connect with Me
 
