@@ -1,12 +1,6 @@
 # Hello, I'm Jaime Bustamante! 👋
 
-## Connect with Me
--  📧 jaime.bustamante@student.ie.edu
-- 📞(+34) 636811620
-- 🔗https://www.linkedin.com/in/jaimebustamanteb/
-  
 ## About Me
-
 I'm a passionate Business Architect, IT Project Manager, and Product Manager based in Madrid, Spain. I love managing digital transformation and am enthusiastic about helping deliver business growth.
 
 - 🔭 I’m currently working on my Masters in Big Data.
@@ -14,8 +8,12 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 💬 Ask me about Technology, Digital Transformation, and Business Analysis.
 - 🏌️‍♂️ You can find me playing Golf, Tennis, or Padel
 
-## Work Experience
+## Connect with Me
+-  📧 jaime.bustamante@student.ie.edu
+- 📞(+34) 636811620
+- 🔗https://www.linkedin.com/in/jaimebustamanteb/
 
+## Work Experience
 - 🗂️ **Sr. Business Architect** - Stellus RX *(Feb-23 to Aug-24)*
 - 🎯 **Marketing Analytics Lead** - OYM Brands *(Aug-22 to Jan-23)*
 - 👨‍💻 **Chief Technology Officer (Palmas Logistics)**  - OYM Brands *(Dec-21 to Sep-22)*
@@ -28,7 +26,6 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 ## Personal Projects
 ### Ebombo Holding
 ### Investor & Consultant (2018 - Present)
-
 - Location: Peru and Mexico
 - HR Tech B2B SaaS that allows companies to connect with their employees to improve the work environment. We do this with virtual activities created by us. These activities consist of games, onboarding dynamics, training, and more, but in a super fun way.
 - 2022: Raised 660K pre-seed round
@@ -39,14 +36,11 @@ financial planning and decision-making
 - Webpage: https://ebomboevents.com/
 
 ## Education
-
 ### Masters in Big Data and Business Administration
-
 - Masters from IE Business School (2023-2024 EXPECTED)
     - Webpage: https://www.ie.edu/
 
 ### Business Administration Bachelor
-
 - Bachellor Diploma from Universidad de Piura (2013-2018)
     - Webpage: https://www.udep.edu.pe/
 
@@ -85,6 +79,5 @@ financial planning and decision-making
 - Google Ads **⭐⭐⭐**
 - Meta Business Manager **⭐⭐⭐**
 - Power BI **⭐⭐**
-
 
 Feel free to explore my repositories and let's connect! 😊
