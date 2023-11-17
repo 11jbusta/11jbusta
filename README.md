@@ -91,10 +91,10 @@ financial planning and decision-making
 
 
 ## Connect with Me
+ 📧 jaime.bustamante@student.ie.edu
 
-- [LinkedIn](Link to your LinkedIn profile)
-- [Twitter](Link to your Twitter profile)
-- [Portfolio](Link to your personal portfolio)
-- [Email](Your Email Address)
+📞(+34) 636811620
+
+🔗https://www.linkedin.com/in/jaimebustamanteb/
 
 Feel free to explore my repositories and let's connect! 😊
