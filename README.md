@@ -11,14 +11,13 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 
 ## Work Experience
 
-> 🗂️ **Sr. Business Architect** - Stellus RX *(Feb-23 to Aug-24)*
-🎯 **Marketing Analytics Lead** - OYM Brands *(Aug-22 to Jan-23)*
-👨‍💻 **Chief Technology Officer (Palmas Logistics)**  - OYM Brands *(Dec-21 to Sep-22)*
-📱 **Product Owner & Manager** - Alicorp *(Mar-21 to Nov-21)*
-📢 **Brand Executive B2B** - Alicorp *(Jan-19 to Feb-21)*
-🛒 **Trade Marketing B2C Intern** - Alicorp *(Aug-17 to Dec-18)*
-🗃 **Planning Intern** - Andina Alimentos *(Jan-17 to Jul-17)*
->
+-🗂️ **Sr. Business Architect** - Stellus RX *(Feb-23 to Aug-24)*
+-🎯 **Marketing Analytics Lead** - OYM Brands *(Aug-22 to Jan-23)*
+-👨‍💻 **Chief Technology Officer (Palmas Logistics)**  - OYM Brands *(Dec-21 to Sep-22)*
+-📱 **Product Owner & Manager** - Alicorp *(Mar-21 to Nov-21)*
+-📢 **Brand Executive B2B** - Alicorp *(Jan-19 to Feb-21)*
+-🛒 **Trade Marketing B2C Intern** - Alicorp *(Aug-17 to Dec-18)*
+-🗃 **Planning Intern** - Andina Alimentos *(Jan-17 to Jul-17)*
 
 ## Skills & Tools
 
