@@ -1,5 +1,10 @@
 # Hello, I'm Jaime Bustamante! 👋
 
+## Connect with Me
+-  📧 jaime.bustamante@student.ie.edu
+- 📞(+34) 636811620
+- 🔗https://www.linkedin.com/in/jaimebustamanteb/
+  
 ## About Me
 
 I'm a passionate Business Architect, IT Project Manager, and Product Manager based in Madrid, Spain. I love managing digital transformation and am enthusiastic about helping deliver business growth.
@@ -81,10 +86,5 @@ financial planning and decision-making
 - Meta Business Manager **⭐⭐⭐**
 - Power BI **⭐⭐**
 
-
-## Connect with Me
- 📧 jaime.bustamante@student.ie.edu
-📞(+34) 636811620
-🔗https://www.linkedin.com/in/jaimebustamanteb/
 
 Feel free to explore my repositories and let's connect! 😊
