@@ -1,4 +1,5 @@
 # Hello, I'm Jaime Bustamante! 👋
+### MBD Candidate @ IE / Sr. Business Architect / IT Project Manager / Product Manager & Owner
 
 ## About Me
 I'm a passionate Business Architect, IT Project Manager, and Product Manager based in Madrid, Spain. I love managing digital transformation and am enthusiastic about helping deliver business growth.
