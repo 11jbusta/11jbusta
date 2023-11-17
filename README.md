@@ -8,7 +8,7 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 💬 Ask me about Technology, Digital Transformation, and Business Analysis.
 - 🏌️‍♂️ You can find me playing Golf, Tennis, or Padel
 
-## Connect with Me
+## Connect Me
 -  📧 jaime.bustamante@student.ie.edu
 - 📞(+34) 636811620
 - 🔗https://www.linkedin.com/in/jaimebustamanteb/
