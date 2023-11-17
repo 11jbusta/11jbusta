@@ -1,4 +1,4 @@
-# Hello, I'm Jaime Bsutamante! 👋
+# Hello, I'm Jaime Bustamante! 👋
 
 ## About Me
 
@@ -34,8 +34,6 @@ financial planning and decision-making
 - Webpage: https://ebomboevents.com/
 
 # Education
-
-## Institutions
 
 ### Masters in Big Data and Business Administration
 
