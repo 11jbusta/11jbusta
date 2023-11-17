@@ -45,7 +45,7 @@ financial planning and decision-making
 - Bachellor Diploma from Universidad de Piura (2013-2018)
     - Webpage: https://www.udep.edu.pe/
 
-# Skills & Tools
+## Skills & Tools
 
 **Programming Languages:**
 - Python **⭐⭐⭐⭐**
