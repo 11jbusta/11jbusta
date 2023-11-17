@@ -53,8 +53,8 @@ financial planning and decision-making
 # Skills & Tools
 
 **Programming Languages:**
-- Python
-- SQL
+- Python **⭐⭐⭐⭐**
+- SQL **⭐⭐⭐⭐**
 
 **Skills**
 - Product Management **⭐⭐⭐⭐⭐**
@@ -62,8 +62,6 @@ financial planning and decision-making
 - Business Architecture **⭐⭐⭐⭐⭐**
 - Marketing Analytics **⭐⭐⭐⭐**
 - IT Project Management **⭐⭐⭐⭐**
-- Python **⭐⭐⭐⭐**
-- SQL **⭐⭐⭐⭐**
 - Machine Learning **⭐⭐⭐⭐**
 - AI for Business Strategy **⭐⭐⭐⭐**
 - E-commerce Management **⭐⭐⭐⭐**
