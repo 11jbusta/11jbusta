@@ -33,7 +33,7 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 financial planning and decision-making
 - Webpage: https://ebomboevents.com/
 
-# Education
+## Education
 
 ### Masters in Big Data and Business Administration
 
