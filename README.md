@@ -7,9 +7,9 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 🔭 I’m currently working on my Masters in Big Data.
 - 🌱 I’m currently learning Data Science.
 - 💬 Ask me about Technology, Digital Transformation, and Business Analysis.
-- 🏌️‍♂️ You can find me playing golf, tennis, or padel
+- 🏌️‍♂️ You can find me playing Golf, Tennis, or Padel
 
-# Work Experience
+## Work Experience
 
 - 🗂️ **Sr. Business Architect** - Stellus RX *(Feb-23 to Aug-24)*
 - 🎯 **Marketing Analytics Lead** - OYM Brands *(Aug-22 to Jan-23)*
@@ -20,8 +20,8 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 🗃 **Planning Intern** - Andina Alimentos *(Jan-17 to Jul-17)*
 
 
-# Personal Projects
-## Ebombo Holding
+## Personal Projects
+### Ebombo Holding
 ### Investor & Consultant (2018 - Present)
 
 - Location: Peru and Mexico
@@ -44,11 +44,6 @@ financial planning and decision-making
 
 - Bachellor Diploma from Universidad de Piura (2013-2018)
     - Webpage: https://www.udep.edu.pe/
-- Upper-Intermediate English Convalidation (6/6)
-
-### Elementary, Middle, and High School
-
-- Colegio Roosevelt (American School of Lima)
 
 # Skills & Tools
 
@@ -83,7 +78,6 @@ financial planning and decision-making
 - Figma **⭐⭐⭐**
 - Google Analytics **⭐⭐⭐**
 - Google Ads **⭐⭐⭐**
-- Messagebird **⭐⭐⭐**
 - Meta Business Manager **⭐⭐⭐**
 - Power BI **⭐⭐**
 
