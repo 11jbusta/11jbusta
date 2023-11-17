@@ -7,7 +7,7 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 🔭 I’m currently working on my Masters in Big Data.
 - 🌱 I’m currently learning Data Science.
 - 💬 Ask me about Technology, Digital Transformation, and Business Analysis.
-- You can find me playing golf, tennis, or padel
+- 🏌️‍♂️ You can find me playing golf, tennis, or padel
 
 # Work Experience
 
@@ -90,9 +90,7 @@ financial planning and decision-making
 
 ## Connect with Me
  📧 jaime.bustamante@student.ie.edu
-
 📞(+34) 636811620
-
 🔗https://www.linkedin.com/in/jaimebustamanteb/
 
 Feel free to explore my repositories and let's connect! 😊
