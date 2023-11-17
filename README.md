@@ -9,7 +9,7 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 💬 Ask me about Technology, Digital Transformation, and Business Analysis.
 - You can find me playing golf, tennis, or padel
 
-## Work Experience
+# Work Experience
 
 - 🗂️ **Sr. Business Architect** - Stellus RX *(Feb-23 to Aug-24)*
 - 🎯 **Marketing Analytics Lead** - OYM Brands *(Aug-22 to Jan-23)*
@@ -19,7 +19,40 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - 🛒 **Trade Marketing B2C Intern** - Alicorp *(Aug-17 to Dec-18)*
 - 🗃 **Planning Intern** - Andina Alimentos *(Jan-17 to Jul-17)*
 
-## Skills & Tools
+
+# Personal Projects
+## Ebombo Holding
+### Investor & Consultant (2018 - Present)
+
+- Location: Peru and Mexico
+- HR Tech B2B SaaS that allows companies to connect with their employees to improve the work environment. We do this with virtual activities created by us. These activities consist of games, onboarding dynamics, training, and more, but in a super fun way.
+- 2022: Raised 660K pre-seed round
+- 2019 Start-Up Peru winner
+- Business Development and Growth
+- Helped with marketing analytics, strategy, business models,
+financial planning and decision-making
+- Webpage: https://ebomboevents.com/
+
+# Education
+
+## Institutions
+
+### Masters in Big Data and Business Administration
+
+- Masters from IE Business School (2023-2024 EXPECTED)
+    - Webpage: https://www.ie.edu/
+
+### Business Administration Bachelor
+
+- Bachellor Diploma from Universidad de Piura (2013-2018)
+    - Webpage: https://www.udep.edu.pe/
+- Upper-Intermediate English Convalidation (6/6)
+
+### Elementary, Middle, and High School
+
+- Colegio Roosevelt (American School of Lima)
+
+# Skills & Tools
 
 **Programming Languages:**
 - Python
@@ -58,21 +91,6 @@ I'm a passionate Business Architect, IT Project Manager, and Product Manager bas
 - Meta Business Manager **⭐⭐⭐**
 - Power BI **⭐⭐**
 
-# Personal Projects
-## Ebombo Holding
-### Investor & Consultant (2018 - Present)
-
-- Location: Peru and Mexico
-- HR Tech B2B SaaS that allows companies to connect with their employees to improve the work environment. We do this with virtual activities created by us. These activities consist of games, onboarding dynamics, training, and more, but in a super fun way.
-- 2022: Raised 660K pre-seed round
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/959688a3-6257-45a5-9a0d-a1e431a4e427/Untitled.png)
-    
-- 2019 Start-Up Peru winner
-- Business Development and Growth
-- Helped with marketing analytics, strategy, business models,
-financial planning and decision-making
-- Webpage: https://ebomboevents.com/
 
 ## Connect with Me
 
